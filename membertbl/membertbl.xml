@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">memberID</Data></Cell>
+			<Cell><Data ss:Type="String">memberName</Data></Cell>
+			<Cell><Data ss:Type="String">memberAddress</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">Dang</Data></Cell>
+			<Cell><Data ss:Type="String">당탕이</Data></Cell>
+			<Cell><Data ss:Type="String">경기 부천시 중동</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Han</Data></Cell>
+			<Cell><Data ss:Type="String">한주연</Data></Cell>
+			<Cell><Data ss:Type="String">인천 남구 주안동</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Jee</Data></Cell>
+			<Cell><Data ss:Type="String">지운이</Data></Cell>
+			<Cell><Data ss:Type="String">서울 은평구 증산동</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">Sang</Data></Cell>
+			<Cell><Data ss:Type="String">상길이</Data></Cell>
+			<Cell><Data ss:Type="String">경기 성남시 분당구</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
